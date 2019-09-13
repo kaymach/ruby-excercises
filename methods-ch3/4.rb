@@ -1,0 +1,1 @@
+#Nothing gets shows on screen. When a return is used, ruby will not continue executing past it within the method.
